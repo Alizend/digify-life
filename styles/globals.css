@@ -1,0 +1,6 @@
+```css
+html,body,#root { height:100% }
+body { margin:0; font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial }
+input { padding:8px; font-size:14px }
+button { padding:8px 12px; border-radius:6px }
+```
